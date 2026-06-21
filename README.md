@@ -30,8 +30,10 @@ O projeto foi implementado com alocação dinâmica de memória, manipulação d
 - Visual Studio Code
 
 ## Como Executar
-Compilação -> gcc main.c lista.c no.c -o programa|
+Compilação -> gcc main.c lista.c no.c -o programa
+
 Execução -> ./programa
+
 Conceitos Aplicados
 - Manipulação de ponteiros
 - Encapsulamento de operações da lista
@@ -42,4 +44,4 @@ Conceitos Aplicados
 ## Autor
 Kamy Oliver
 
-Projeto desenvolvido para fins acadêmicos na disciplina de Estrutura de Dados.
+*Projeto desenvolvido para fins acadêmicos na disciplina de Estrutura de Dados.*
