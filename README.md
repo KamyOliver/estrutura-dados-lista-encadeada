@@ -30,7 +30,7 @@ O projeto foi implementado com alocação dinâmica de memória, manipulação d
 - Visual Studio Code
 
 ## Como Executar
-Compilação -> gcc main.c lista.c no.c -o programa
+Compilação -> gcc main.c lista.c no.c -o programa|
 Execução -> ./programa
 Conceitos Aplicados
 - Manipulação de ponteiros
@@ -39,7 +39,7 @@ Conceitos Aplicados
 - Gerenciamento de memória
 - Implementação de filas com prioridade
 
-##Autor
+## Autor
 Kamy Oliver
 
 Projeto desenvolvido para fins acadêmicos na disciplina de Estrutura de Dados.
